@@ -2,7 +2,8 @@
 
 # Mac DB15 to VGA
 
-This is a classic Macintosh DB15 video out to VGA adapter. It's uses the same dip switch settings as the Sony MacView and Unimac 82D.
+This is a classic Macintosh DB15 video out to VGA adapter. It's uses the same dip switch settings as the Sony MacView and Unimac 82D.  
+CUSTOMIZED FOR PIN HEADERS BY MRGASS AKA S.E.M.M.
 
 [Dip Switch Settings](docs/manuals)
 
